@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-i am wahid malik.
+- 🔭 I’m currently working on Flutter using firebase and dart language..
+- 🌱 I’m currently learning more about FLutter.
+- 👯 I’m looking to collaborate on youtube.
+- 💬 Ask me about Flutter.
+- 📫 How to reach me: Facebbo - malik.wahid.94009/
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: i spend almost 6 hours at cricket every week.
