@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Wahid Malik
 
 <!--
 **Wahid551/Wahid551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+i am wahid malik.
