@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about FLutter.
 - 👯 I’m looking to collaborate on youtube.
 - 💬 Ask me about Flutter.
-- 📫 How to reach me: [Facebook -WahidMalik](https://www.facebook.com/malik.wahid.94009/)
+- 📫 How to reach me: 
+-    [Facebook -WahidMalik](https://www.facebook.com/malik.wahid.94009/)    
+-    [Instagram -Wahid_Malik](https://www.instagram.com/pcharming474/)  
+-    [WhatsApp Contact](+923078308370)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i spend almost 6 hours at cricket every week.
