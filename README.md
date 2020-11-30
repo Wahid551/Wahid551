@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 - 🔭 I’m currently working on Flutter using firebase and dart language..
-- 🌱 I’m currently learning more about FLutter.
+- 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on youtube.
 - 💬 Ask me about Flutter.
 - 😄 Pronouns: He/His
