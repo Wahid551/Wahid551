@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i spend almost 6 hours at cricket every week.
 
 ## 📫 How to reach me: 
+-    [Linkedin -WahidMalik](https://www.linkedin.com/in/wahid-ali-932b00177/) 
 -    [Facebook -WahidMalik](https://www.facebook.com/malik.wahid.94009/)    
 -    [Instagram -Wahid_Malik](https://www.instagram.com/pcharming474/)  
 -    [WhatsApp Contact +923078308370 ]()
