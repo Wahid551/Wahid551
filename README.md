@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me: 
 -    [Linkedin -WahidMalik](https://www.linkedin.com/in/wahid-ali-932b00177/) 
+-    [Twitter -WahidMalik](https://twitter.com/pchrmg2)
 -    [Facebook -WahidMalik](https://www.facebook.com/malik.wahid.94009/)    
 -    [Instagram -Wahid_Malik](https://www.instagram.com/pcharming474/)  
 -    [WhatsApp Contact +923078308370 ]()
