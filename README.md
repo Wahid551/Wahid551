@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Connect with me: abuanwar072 abuanwar072 ucjm7i4g4z7zgcja_hkhlcvw
 
 ## About me
 - 🔭 I’m currently working on Flutter using firebase and dart language..
